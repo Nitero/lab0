@@ -1,2 +1,2 @@
 # Fancy README file
-Mit Markup wird das ganze gleich vieeeel sch√ner :thumpsup:
+Mit Markdown wird das ganze gleich vieeeel schoener :thumpsup:
